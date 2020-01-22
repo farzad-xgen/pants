@@ -1,3 +1,5 @@
+# This is XGen fork of Scream package with some minor changes
+
 Python Projects with Pants
 ==========================
 
